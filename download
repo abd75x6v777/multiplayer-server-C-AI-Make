@@ -1,0 +1,8 @@
+.git
+build
+build-*
+tests
+*.exe
+*.zip
+README.md
+VERIFICATION.md
